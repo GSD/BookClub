@@ -2,6 +2,8 @@
 
 _Having a shared vocabulary and set of experiences makes communication much much easier. While we can't actually all have the same experiences, we can all "read" the same books together. This will give us a shared vocabulary and set of "reference" experiences to draw upon_
 
+This will only take 1 hour a week, no prep time required
+
 # Format
 
 _"I'm way too busy for this"_ - don't worry, we have your back...
