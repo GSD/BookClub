@@ -11,3 +11,13 @@ _"I'm way too busy for this"_ - don't worry, we have your back...
 **15 minutes of lead discussion** - Together, we will go through the quests in this repo on that chapter
 
 **15 minutes of free discusion** - we will then open the floor to free discussion
+
+# Book List
+
+## Leadership
+
+## Personal Growth
+
+## Mentor Ship
+
+## Equality
