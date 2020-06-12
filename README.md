@@ -6,7 +6,7 @@ _Having a shared vocabulary and set of experiences makes communication much much
 
 _"I'm way too busy for this"_ - don't worry, we have your back...
 
-**30 minutes of listening to a chapter together, over zoom** - Together we will listen to the audio book of a specific section of the book (as outlined in this repo)
+**30 minutes of listening to a chapter together** - Together we will listen to the audio book of a specific section of the book (as outlined in this repo)
 
 **15 minutes of lead discussion** - Together, we will go through the quests in this repo on that chapter
 
